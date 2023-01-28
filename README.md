@@ -31,7 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ugnO4mQpXQ2fdmC38XIPuL/Explorer-(Copy)?node-id=0%3A1&t=rnFHpaUUlDZZ5Yw0-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ugnO4mQpXQ2fdmC38XIPuL/Explorer-(Copy)?node-id=0%3A1&t=rnFHpaUUlDZZ5Yw0-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+<div>
+  <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
+
 
 ## 📧 Contato
 
